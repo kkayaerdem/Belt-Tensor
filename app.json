@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.kkaya.belttensor",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +26,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "will better\n"
+    "description": "will better"
   }
 }
